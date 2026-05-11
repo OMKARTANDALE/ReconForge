@@ -1,0 +1,6 @@
+output/
+logs/
+screenshots/
+reports/
+*.txt
+*.json
